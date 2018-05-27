@@ -274,10 +274,10 @@ ul li {
 }
 .navbar-custom .navbar-nav > li > a:focus, .navbar-custom .navbar-nav > li > a:hover {
   background-color: transparent;
-  border-color: rgba(255, 255, 255, 0.5);
+	color: #FFDF00;
 }
 .navbar-custom .navbar-nav > .active > a {
-  border-color: rgba(255, 255, 255, 0.5);
+  color: #FFDF00;
 }
 
 .navbar-toggle {
@@ -604,3 +604,4 @@ ul li {
 .site-footer .social-block li a:hover, .site-footer .social-block li a:focus {
   opacity: 0.8;
 }
+
