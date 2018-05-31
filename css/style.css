@@ -910,3 +910,18 @@ border-radius: 50%;
 #f{
 	font-size: 12px;
 }
+#fb:hover{
+	background-image: url(../extras/fb_hover.png);
+}
+#insta:hover{
+	background-image: url(../extras/insta2_hover.png);
+}
+#wa:hover{
+	background-image: url(../extras/whatsapp3_hover.png);
+}
+#my:hover{
+	color: #4e4e4e;
+}
+#my{
+	color:  rgba(219, 10, 97, 0.78);
+}
