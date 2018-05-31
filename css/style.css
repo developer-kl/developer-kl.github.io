@@ -466,6 +466,7 @@ text-align:center;
 }
 textarea {
 	resize: vertical;
+	
 }
 .price-table .panel-heading{
 padding: 10px 0;
@@ -721,6 +722,7 @@ padding: 10px 0;
 }
 .brand a:hover {
 	text-decoration: none;
+	color:  rgba(219, 10, 97, 1);
 }
 .site-slogan {
 	font-size: 12px;
@@ -881,7 +883,7 @@ border-radius: 50%;
 	left: 50%;
 	top: 50%;
 	font-size: 18px;
-	line-height: 1x;
+	line-height: 1px;
 	color: #ffffff;
 	margin-top: -8px;
 	margin-left: -8px;
@@ -892,4 +894,19 @@ border-radius: 50%;
 	filter: alpha(opacity=100);
 	-webkit-transform: scale(1);
 	transform: scale(1);
+}
+#q{
+	visibility: hidden;
+}
+#w{
+	height: 325px;
+}
+.myspan{
+	color:  rgba(219, 10, 97, 0.78);
+}
+#e{
+	height: 175px;
+}
+#f{
+	font-size: 12px;
 }
