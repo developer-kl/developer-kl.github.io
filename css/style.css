@@ -143,7 +143,7 @@ blockquote {
 }
 .banner-caption {
 	position: absolute;
-	top: 50%;
+	top: 65%;
 	width: 100%;
 	z-index: 2;
 }
@@ -924,4 +924,9 @@ border-radius: 50%;
 }
 #my{
 	color:  rgba(219, 10, 97, 0.78);
+	data-animation-effect:"flash";
+}
+.z{
+	margin-top: 30px;
+	/*padding: 10px;*/
 }
