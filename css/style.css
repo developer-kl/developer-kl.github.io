@@ -911,13 +911,13 @@ border-radius: 50%;
 	font-size: 12px;
 }
 #fb:hover{
-	background-image: url(../extras/fb_hover.png);
+	background-image: url(../extras/fb.png);
 }
 #insta:hover{
-	background-image: url(../extras/insta2_hover.png);
+	background-image: url(../extras/insta2.png);
 }
 #wa:hover{
-	background-image: url(../extras/whatsapp3_hover.png);
+	background-image: url(../extras/whatsapp.png);
 }
 #my:hover{
 	color: #4e4e4e;
